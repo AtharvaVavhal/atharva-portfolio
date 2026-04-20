@@ -5,25 +5,25 @@ import { MdArrowBack, MdArrowForward } from "react-icons/md";
 
 const projects = [
   {
-    title: "CallHQ",
-    category: "Voice AI Calling Platform",
-    tools: "Voice AI, Calling Automation, CRM Integrations",
-    image: "/images/callhq.png",
-    link: "https://callhq.ai",
-  },
-  {
-    title: "Whatsapp Automation",
-    category: "WABA Application",
-    tools: "WhatsApp Business API, Workflow Automation, Notifications",
+    title: "CampusCopy",
+    category: "Digital Printing & Ordering Platform",
+    tools: "React, JavaScript, API Integration",
     image: "/images/whatsapp.png",
-    link: "https://whatsapp.callhq.ai",
+    link: "https://campuscopy.pages.dev/",
   },
   {
-    title: "Broki",
-    category: "Real Estate Platform for FnB Industry",
-    tools: "Property Discovery, Lead Management, Marketplace Workflows",
-    image: "/images/broki.png",
-    link: "https://broki.in",
+    title: "FoodSafe",
+    category: "Food Safety & Awareness Web App",
+    tools: "React, Node.js, API Integration",
+    image: "/images/callhq.png",
+    link: "https://food-safe-lsca.vercel.app/",
+  },
+  {
+    title: "Habit Tracker",
+    category: "Productivity & Habit Tracking App",
+    tools: "React, State Management, Local Storage",
+    image: "/images/habittracker.png",
+    link: "https://habit-tracker-six-flame.vercel.app",
   },
   {
     title: "Orrdr.com",
